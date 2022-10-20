@@ -1,9 +1,0 @@
-2 teams
- A beats B
-
-3 Teams
-A beats B
-A beats C
-
-B beats C
-
